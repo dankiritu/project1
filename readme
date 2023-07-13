@@ -1,0 +1,51 @@
+Certainly! Here's an example of a README file for your website:
+
+# Website Name
+
+This is a README file for the Website Name. The website is an e-commerce platform for selling jerseys and match tickets.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Browse and purchase jerseys from various teams.
+- View match schedule and purchase tickets for upcoming matches.
+- Contact section to get in touch with the website administrators.
+- Smooth scrolling functionality for improved user experience.
+
+## Installation
+
+To install and run the website locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your/repo.git`
+2. Navigate to the project directory: `cd project-directory`
+3. Open the `projec.html` file in a web browser.
+
+## Usage
+
+- Browse the website by clicking on the navigation links (Home, Jerseys, Tickets, Contact).
+- On the Jerseys page, view and purchase jerseys by selecting the desired options.
+- On the Tickets page, view the upcoming matches and purchase tickets.
+- Use the Contact page to get in touch with the website administrators.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+
+## Contributing
+
+Contributions to the project are welcome. If you encounter any bugs or have suggestions for improvements, please submit an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
